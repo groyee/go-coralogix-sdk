@@ -1,1 +1,1 @@
-module github.com/groyee/go-coralogix-sdk
+module github.com/coralogix/go-coralogix-sdk
